@@ -6,6 +6,8 @@
 
 A Swift port of [Rom Patcher JS](https://github.com/marcrobledo/RomPatcher.js) by Marc Robledo. This project provides a Swift package for applying and creating ROM patches, with a command-line interface provided as an example implementation.
 
+*Note: Patch creation has not been thoroughly tested yet.*
+
 ## Project Overview
 
 RomPatcherSwift is a Swift package that enables ROM patching functionality in Swift applications. It's a direct port of the popular Rom Patcher JS library with Swift-specific features and optimizations, maintaining compatibility with the same patch formats and features.
