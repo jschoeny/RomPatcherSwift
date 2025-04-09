@@ -14,12 +14,10 @@ let package = Package(
         ),
         .library(
             name: "BinFile",
-            type: .dynamic,
             targets: ["BinFile"]
         ),
         .library(
             name: "RomPatcherCore",
-            type: .dynamic,
             targets: ["RomPatcherCore"]
         )
     ],
